@@ -21,4 +21,3 @@ output "test" {
 }
 
 variable "GITHUB_TOKEN" {}
-vads d
